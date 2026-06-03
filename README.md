@@ -1,16 +1,22 @@
-# Rock Paper Scissors Game
+# ✊ Rock Paper Scissors  
 
-A simple **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.
-In this game, the player competes against the computer. The computer randomly selects Rock, Paper, or Scissors, and the score updates after each round.
+A classic Rock Paper Scissors game built using HTML, CSS, and JavaScript where you play against the computer.
 
-## Technologies Used
+## 🎮 Gameplay  
+- Choose Rock, Paper, or Scissors  
+- Computer makes a random move  
+- Score updates after each round  
 
-* HTML
-* CSS
-* JavaScript
-* Bootstrap
+## ⚡ Features  
+- Real-time result display  
+- Score tracking system  
+- Simple and responsive UI  
 
-## How to Play
+## 🛠 Tech Stack  
+HTML5, CSS3, JavaScript  
 
-Click **Get Started**, choose Rock, Paper, or Scissors, and try to beat the computer.
+## 🌐 Live Demo  
+https://raju-rps-game.netlify.app/
 
+## 🎯 Purpose  
+Demonstrates basic game logic, event handling, and DOM manipulation in JavaScript.
